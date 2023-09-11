@@ -2,7 +2,7 @@
   [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/ai-bots-ppt/blob/main/README-EN.md)
   [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EnAnsari/ai-bots-ppt/blob/main/LICENSE)
   <br><br>
-    🚀 <strong>ترم بهمن 1402
+    🚀 <strong>ترم بهمن 1401
   <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم سبزواری</a></strong>
 <br><br>
 این ریپوزیتوری شامل فایل‌های ارائه من در مورد ربات‌های هوش مصنوعی می‌باشد.<br>
